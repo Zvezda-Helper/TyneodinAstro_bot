@@ -1,3 +1,6 @@
+import os
+
+TOKEN = os.getenv("BOT_TOKEN")  # ✅ Получаем токен из переменной окружения
 import asyncio
 import nest_asyncio
 from telegram import Update, ReplyKeyboardMarkup
