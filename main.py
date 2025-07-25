@@ -13,7 +13,7 @@ from gpt import ask_gpt
 
 nest_asyncio.apply()
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8476367482:AAHZh2pEwNYTC10iBcJzMNCXEtP5AmWYYOo"
 
 GET_BIRTHDATA = 1
 user_data = {}
